@@ -34,10 +34,8 @@
   ],
   "dependencies": {
     "ansi-color": "0.2.1",
+    "iconv-lite": "^0.4.7",
     "irc-colors": "^1.1.0"
-  },
-  "optionalDependencies": {
-    "iconv": "~2.1.4"
   },
   "devDependencies": {
     "faucet": "0.0.1",
